@@ -3124,6 +3124,7 @@ Strict and disable bot crawl search engine index account
 - [platerecognizer](https://platerecognizer.com/)
 - [partialnumberplate UK](https://www.partialnumberplate.co.uk/)
 - [ID Samsat](https://samsat.info/cek-pajak-kendaraan-bermotor-online)
+- [License Plate Lookup](https://www.licenseplatelookup.org) 
 
 VIN Checker 
 
